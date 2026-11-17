@@ -1,0 +1,23 @@
+{
+ "definition": "可变区域 = 参考序列 72 位中，未被成员3 掩码(majority_freq>=0.9, 35 位)锁定的位点",
+ "n_variable": 37,
+ "n_in_domain": 16,
+ "n_outside_domain": 21,
+ "n_also_locked_by_my_top40": 0,
+ "consistency": {
+  "consistent_variable(entropy also says variable or insert)": 31,
+  "definition_gap(entropy says intermediate/conserved)": 6
+ },
+ "my_label_breakdown": {
+  "variable": 10,
+  "intermediate": 6,
+  "conserved": 0,
+  "insert": 21
+ },
+ "comparison_with_entropy_definition": {
+  "this_file(team definition)": 37,
+  "out/variable_positions.csv(entropy definition)": 104,
+  "note": "两条口径都保留：团队口径用于对齐成员3/模块3；熵口径用于 E2 掩码敏感性"
+ },
+ "source": "out/member3_mask_reference.json + out/ref_position_profile.csv + out/mask_candidates_v2.json"
+}

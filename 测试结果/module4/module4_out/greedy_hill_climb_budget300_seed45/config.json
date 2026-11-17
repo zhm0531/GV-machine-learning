@@ -1,0 +1,17 @@
+{
+  "strategy": "greedy_hill_climb",
+  "budget": 300,
+  "seed": 45,
+  "ref_id": "WP_007357596.1",
+  "reference_length": 72,
+  "locked_sites_count": 35,
+  "free_sites_count": 37,
+  "objective": "maximize -aggregation_max; equivalent to minimize AGGRESCAN a3v 7-residue-window maximum",
+  "hard_constraints": [
+    "fixed sequence length and 20 standard amino acids",
+    "locked positions unchanged",
+    "natural property envelope from module3 profile (target aggregation_max excluded)"
+  ],
+  "pfam_validation": "PF00741 HMMER scan is performed after search on final best candidates, not in inner loop",
+  "budget_definition": "maximum successful feasible objective evaluations including reference; infeasible proposals do not consume eval_count"
+}

@@ -1,0 +1,94 @@
+{
+ "reference": {
+  "member3_ref_id": "WP_007357596.1",
+  "len": 72,
+  "member3_mask_threshold": 0.9,
+  "member3_n_locked": 35,
+  "member3_n_free": 37
+ },
+ "member3_mask_1based": [
+  1,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  17,
+  18,
+  20,
+  21,
+  22,
+  23,
+  25,
+  27,
+  33,
+  35,
+  36,
+  37,
+  38,
+  43,
+  44,
+  45,
+  47,
+  49,
+  50,
+  51,
+  53,
+  55,
+  57,
+  58,
+  59,
+  60,
+  62,
+  63
+ ],
+ "mine": {
+  "n_conserved_label": 10,
+  "n_variable_label": 10,
+  "domain_range": [
+   11,
+   49
+  ]
+ },
+ "overlap": {
+  "top20": {
+   "n_mine": 14,
+   "n_member3": 35,
+   "n_intersect": 14,
+   "jaccard": 0.4,
+   "precision_vs_member3": 1.0,
+   "recall_vs_member3": 0.4
+  },
+  "top40": {
+   "n_mine": 29,
+   "n_member3": 35,
+   "n_intersect": 29,
+   "jaccard": 0.8286,
+   "precision_vs_member3": 1.0,
+   "recall_vs_member3": 0.8286
+  },
+  "top60": {
+   "n_mine": 43,
+   "n_member3": 35,
+   "n_intersect": 32,
+   "jaccard": 0.6957,
+   "precision_vs_member3": 0.7442,
+   "recall_vs_member3": 0.9143
+  },
+  "my_conserved_label(q25)": {
+   "n_mine": 10,
+   "n_member3": 35,
+   "n_intersect": 10,
+   "jaccard": 0.2857,
+   "precision_vs_member3": 1.0,
+   "recall_vs_member3": 0.2857
+  }
+ },
+ "distribution": {
+  "member3_locked_inside_domain": 23,
+  "member3_locked_outside_domain": 12,
+  "member3_locked_in_my_insert_cols": 12
+ },
+ "spearman_majorityfreq_vs_entropy": 0.9298
+}

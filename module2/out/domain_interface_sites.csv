@@ -1,0 +1,5 @@
+site_id,protein,start,end,type,evidence,confidence,source
+GvpA_PF00741_domain,GvpA(WP_007357596.1),11,49,PF00741_domain,hmmsearch PF00741 --cut_ga E=1.03e-18 score=62.92 dom_len=39 (854/856 命中),high,out/PF00741_hits.csv
+GvpA_GvpC_interface_candidate,GvpA(WP_007357596.1),11,49,assembly_interface,与 PF00741 域重合；GvpC 结合 GvpA 壳体表面为先验知识。无实验复合物结构，残基级接触面未确定,low,推断（需结构/交联验证）
+GvpC_repeat_block,GvpC(179/3225 条有显著重复),19,169,assembly_interface,PF01304 重复域：中位 5 个单元 × 32 aa，占序列 84%，块长中位 150 aa,medium,out/gvpc_repeat_hits.csv
+prior_work_regions,GvpA/GvpC,0,0,prior_work_reference,往届图：GvpA_region_16_46 / 25_55、GvpC_region_76_111 / 102_137（module2/reference/，未复核，仅供参考）,low,pan_resources reference figures

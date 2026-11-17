@@ -1,0 +1,39 @@
+{
+ "hmm": {
+  "file": "/home/caizhi666/ml/module2/pfam/PF00741.hmm",
+  "name": "PF00741",
+  "M": 39,
+  "cutoff": "gathering"
+ },
+ "n_seq_total": 856,
+ "n_seq_hit": 854,
+ "hit_rate": 0.9977,
+ "dom_len": {
+  "min": 35,
+  "median": 39.0,
+  "max": 39
+ },
+ "coverage": {
+  "min": 0.3814,
+  "median": 0.4588,
+  "max": 0.6393
+ },
+ "evalue_median": "2.72e-17",
+ "score_median": 58.37,
+ "reference": {
+  "id": "WP_007357596.1",
+  "len": 72,
+  "domain": {
+   "seq_id": "WP_007357596.1",
+   "seq_len": 72,
+   "ali_from": 11,
+   "ali_to": 49,
+   "env_from": 11,
+   "env_to": 49,
+   "evalue": "1.03e-18",
+   "score": 62.92,
+   "dom_len": 39,
+   "coverage": 0.5417
+  }
+ }
+}

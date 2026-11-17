@@ -1,0 +1,16 @@
+{
+  "strategy": "random_mutation",
+  "budget": 600,
+  "seed": 44,
+  "ref_id": "WP_007357596.1",
+  "reference_sequence": "MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRISLVGIELIAIEARIVIASVETYLKYAEAVGLTSQAAVPSV",
+  "best_sequence": "MAVEKVNSSSSLAEVVDRILDKGIVCDWMNRISLVGIELGAIEARTVIASVETYLCYAEARGLTTQAAVPSV",
+  "best_score": -0.5424,
+  "reference_score": -0.7134,
+  "eval_count": 600,
+  "proposal_count": 687,
+  "invalid_count": 87,
+  "cache_hits": 0,
+  "elapsed_seconds": 18.367319099997985,
+  "stop_reason": "evaluation_budget"
+}

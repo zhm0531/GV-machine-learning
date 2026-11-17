@@ -1,0 +1,38 @@
+ref_pos,ref_residue,in_PF00741_domain,my_col_type,my_entropy,my_label,member3_majority_freq,locked_by_my_top40,note
+2,A,no,insert,2.5609,insert,0.674,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+3,V,no,insert,2.3466,insert,0.431,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+4,E,no,insert,2.2449,insert,0.484,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+5,K,no,insert,1.8068,insert,0.703,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+6,V,no,insert,2.5804,insert,0.423,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+7,N,no,insert,2.4214,insert,0.322,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+8,S,no,insert,1.8111,insert,0.581,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+9,S,no,insert,1.0481,insert,0.822,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+16,V,yes,match,1.5388,variable,0.454,no,域内高变位点，熵法同为 variable（两法一致）
+19,I,yes,match,0.4675,intermediate,0.898,no,域内中等变异：频率法判为可变，熵法为 intermediate（口径差异，建议 E2 敏感性验证）
+24,I,yes,match,1.1371,variable,0.609,no,域内高变位点，熵法同为 variable（两法一致）
+26,I,yes,match,0.7421,intermediate,0.794,no,域内中等变异：频率法判为可变，熵法为 intermediate（口径差异，建议 E2 敏感性验证）
+28,A,yes,match,1.6767,variable,0.576,no,域内高变位点，熵法同为 variable（两法一致）
+29,W,yes,match,1.2878,variable,0.602,no,域内高变位点，熵法同为 variable（两法一致）
+30,V,yes,match,1.2056,variable,0.590,no,域内高变位点，熵法同为 variable（两法一致）
+31,R,yes,match,0.56,intermediate,0.892,no,域内中等变异：频率法判为可变，熵法为 intermediate（口径差异，建议 E2 敏感性验证）
+32,I,yes,match,0.8371,intermediate,0.783,no,域内中等变异：频率法判为可变，熵法为 intermediate（口径差异，建议 E2 敏感性验证）
+34,L,yes,match,0.9966,variable,0.656,no,域内高变位点，熵法同为 variable（两法一致）
+39,L,yes,match,1.0244,variable,0.710,no,域内高变位点，熵法同为 variable（两法一致）
+40,I,yes,match,0.9445,intermediate,0.747,no,域内中等变异：频率法判为可变，熵法为 intermediate（口径差异，建议 E2 敏感性验证）
+41,A,yes,match,1.3664,variable,0.601,no,域内高变位点，熵法同为 variable（两法一致）
+42,I,yes,match,1.0517,variable,0.519,no,域内高变位点，熵法同为 variable（两法一致）
+46,I,yes,match,0.9502,intermediate,0.751,no,域内中等变异：频率法判为可变，熵法为 intermediate（口径差异，建议 E2 敏感性验证）
+48,I,yes,match,1.1893,variable,0.609,no,域内高变位点，熵法同为 variable（两法一致）
+52,E,no,insert,1.2177,insert,0.601,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+54,Y,no,insert,1.661,insert,0.383,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+56,K,no,insert,1.9141,insert,0.389,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+61,V,no,insert,1.2477,insert,0.628,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+64,T,no,insert,1.7088,insert,0.509,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+65,S,no,insert,2.8751,insert,0.284,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+66,Q,no,insert,2.8827,insert,0.368,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+67,A,no,insert,2.1048,insert,0.480,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+68,A,no,insert,2.8099,insert,0.480,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+69,V,no,insert,3.0082,insert,0.298,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+70,P,no,insert,2.6181,insert,0.549,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+71,S,no,insert,2.8306,insert,0.472,no,域外/侧翼，熵法为 insert（两法一致判为可变）
+72,V,no,insert,3.1374,insert,0.359,no,域外/侧翼，熵法为 insert（两法一致判为可变）

@@ -1,0 +1,41 @@
+{
+ "ref_length": 72,
+ "n_cols": 153,
+ "n_match_cols": 39,
+ "n_conserved_match": 10,
+ "n_intermediate_match": 19,
+ "n_variable_match": 10,
+ "n_insert_high_entropy": 94,
+ "entropy_quantiles_match": {
+  "10": 0.0262,
+  "25": 0.0482,
+  "50": 0.314,
+  "75": 0.9966,
+  "90": 1.2878
+ },
+ "entropy_stats_match": {
+  "min": 0.0,
+  "median": 0.314,
+  "max": 1.6767
+ },
+ "strictly_conserved_match_cols": 2,
+ "domain_range_on_reference": [
+  11,
+  49
+ ],
+ "variable_positions_ref_coords": 10,
+ "flank_positions_ref_coords": 33,
+ "variable_plus_flank_ref_coords": 43,
+ "check_expectation_37": {
+  "note": "分工文档预期\"可变区域约 37 位\"，此处给出多种口径的实际计数供核对",
+  "variable_match_cols(q75)": 10,
+  "variable_match_plus_high_entropy_insert": 104,
+  "cols_entropy_ge_2.0_all": 40,
+  "ref_positions_entropy_ge_2.0": 13,
+  "ref_positions_entropy_ge_1.5": 20,
+  "variable_positions_ref_coords": 10,
+  "flank_positions_ref_coords": 33,
+  "total_variable_plus_flank": 43,
+  "conclusion": "按参考坐标计，可变位点(域内高变 10) + 侧翼(33) = 43 位，与\"约 37 位\"同量级；但其构成与旧口径不同（旧口径源自截断伪比对）"
+ }
+}

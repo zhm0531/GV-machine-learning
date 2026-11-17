@@ -1,0 +1,61 @@
+﻿name,passed,evalue,score,status
+random_mutation_b300_s42,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b300_s43,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b300_s44,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b300_s45,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b300_s46,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b600_s42,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b600_s43,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b600_s44,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b600_s45,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b600_s46,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b1200_s42,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b1200_s43,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b1200_s44,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b1200_s45,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+random_mutation_b1200_s46,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b300_s42,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b300_s43,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b300_s44,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b300_s45,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b300_s46,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b600_s42,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b600_s43,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b600_s44,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b600_s45,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b600_s46,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b1200_s42,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b1200_s43,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b1200_s44,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b1200_s45,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"
+greedy_hill_climb_b1200_s46,NOT_RUN,,,"未执行：RuntimeError: 找不到 hmmsearch。安装：sudo apt-get install hmmer
+或设置 HMMSEARCH_BIN 环境变量"

@@ -1,0 +1,16 @@
+{
+  "strategy": "greedy_hill_climb",
+  "budget": 1200,
+  "seed": 45,
+  "ref_id": "WP_007357596.1",
+  "reference_sequence": "MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRISLVGIELIAIEARIVIASVETYLKYAEAVGLTSQAAVPSV",
+  "best_sequence": "MAVEKVNSSSSLAEVVDRILDKGIVIDAWERISLVGIELYAIEARIVIASVETYLKYAEAVGLTSQAAVPSV",
+  "best_score": -0.6307,
+  "reference_score": -0.7134,
+  "eval_count": 1200,
+  "proposal_count": 1252,
+  "invalid_count": 52,
+  "cache_hits": 0,
+  "elapsed_seconds": 37.36782649999077,
+  "stop_reason": "evaluation_budget"
+}

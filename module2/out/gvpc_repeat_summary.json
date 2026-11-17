@@ -1,0 +1,27 @@
+{
+ "gvpc": {
+  "n_seq": 3225,
+  "length_median": 147
+ },
+ "models": {
+  "PF01304": {
+   "n_domains": 884,
+   "n_seq_hit": 179,
+   "hmm_M": 33
+  },
+  "PF05465": {
+   "n_domains": 0,
+   "n_seq_hit": 0,
+   "hmm_M": 32
+  }
+ },
+ "n_seq": 3225,
+ "hit_sequences": 179,
+ "hit_rate": 0.0555,
+ "units_per_seq_median": 5,
+ "unit_len_median": 32,
+ "block_frac_of_seq_median": 0.838,
+ "block_start_median": 19,
+ "block_len_median": 150,
+ "method": "hmmsearch PF01304 --cut_ga(gathering); PF05465 作阴性对照"
+}

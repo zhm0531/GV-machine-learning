@@ -1,0 +1,42 @@
+============================================================
+副作用分析报告 (模块5 - 块2)
+============================================================
+候选序列数        : 30
+存在副作用的序列   : 30
+非可变区改动阈值   : >10%
+折叠代理下降阈值   : >0.050
+GvpC 接口位点      : 159 个
+------------------------------------------------------------
+  random_mutation|budget=300|seed=42 edits=7 非可变区=2 锁定改动=0 接口=7 折叠降=0.1462  非可变区改动29% | 接口改动7 | 折叠代理降0.146 | aggregation_max越界
+  random_mutation|budget=300|seed=43 edits=6 非可变区=3 锁定改动=0 接口=5 折叠降=0.1071  非可变区改动50% | 接口改动5 | 折叠代理降0.107 | aggregation_max越界
+  random_mutation|budget=300|seed=44 edits=8 非可变区=3 锁定改动=0 接口=8 折叠降=0.1306  非可变区改动38% | 接口改动8 | 折叠代理降0.131 | aggregation_max越界
+  random_mutation|budget=300|seed=45 edits=2 非可变区=1 锁定改动=0 接口=2 折叠降=0.0931  非可变区改动50% | 接口改动2 | 折叠代理降0.093 | aggregation_max越界
+  random_mutation|budget=300|seed=46 edits=5 非可变区=3 锁定改动=0 接口=5 折叠降=0.1659  非可变区改动60% | 接口改动5 | 折叠代理降0.166 | aggregation_max越界
+  random_mutation|budget=600|seed=42 edits=7 非可变区=2 锁定改动=0 接口=7 折叠降=0.1462  非可变区改动29% | 接口改动7 | 折叠代理降0.146 | aggregation_max越界
+  random_mutation|budget=600|seed=43 edits=6 非可变区=3 锁定改动=0 接口=5 折叠降=0.1824  非可变区改动50% | 接口改动5 | 折叠代理降0.182 | aggregation_max越界
+  random_mutation|budget=600|seed=44 edits=9 非可变区=3 锁定改动=0 接口=9 折叠降=0.1576  非可变区改动33% | 接口改动9 | 折叠代理降0.158 | aggregation_max越界
+  random_mutation|budget=600|seed=45 edits=4 非可变区=1 锁定改动=0 接口=4 折叠降=0.1721  非可变区改动25% | 接口改动4 | 折叠代理降0.172 | aggregation_max越界
+  random_mutation|budget=600|seed=46 edits=5 非可变区=3 锁定改动=0 接口=5 折叠降=0.1659  非可变区改动60% | 接口改动5 | 折叠代理降0.166 | aggregation_max越界
+  random_mutation|budget=1200|seed=42 edits=12 非可变区=3 锁定改动=0 接口=10 折叠降=0.223  非可变区改动25% | 接口改动10 | 折叠代理降0.223 | aggregation_max越界
+  random_mutation|budget=1200|seed=43 edits=12 非可变区=4 锁定改动=0 接口=8 折叠降=0.205  非可变区改动33% | 接口改动8 | 折叠代理降0.205 | aggregation_max越界
+  random_mutation|budget=1200|seed=44 edits=13 非可变区=4 锁定改动=0 接口=11 折叠降=0.191  非可变区改动31% | 接口改动11 | 折叠代理降0.191 | aggregation_max越界
+  random_mutation|budget=1200|seed=45 edits=4 非可变区=1 锁定改动=0 接口=4 折叠降=0.1721  非可变区改动25% | 接口改动4 | 折叠代理降0.172 | aggregation_max越界
+  random_mutation|budget=1200|seed=46 edits=7 非可变区=3 锁定改动=0 接口=7 折叠降=0.1573  非可变区改动43% | 接口改动7 | 折叠代理降0.157 | aggregation_max越界
+  greedy_hill_climb|budget=300|seed=42 edits=1 非可变区=0 锁定改动=0 接口=1 折叠降=0.0215  接口改动1
+  greedy_hill_climb|budget=300|seed=43 edits=1 非可变区=0 锁定改动=0 接口=1 折叠降=0.0409  接口改动1
+  greedy_hill_climb|budget=300|seed=44 edits=1 非可变区=0 锁定改动=0 接口=1 折叠降=0.0103  接口改动1
+  greedy_hill_climb|budget=300|seed=45 edits=1 非可变区=0 锁定改动=0 接口=1 折叠降=0.0643  接口改动1 | 折叠代理降0.064
+  greedy_hill_climb|budget=300|seed=46 edits=1 非可变区=0 锁定改动=0 接口=1 折叠降=0.026  接口改动1
+  greedy_hill_climb|budget=600|seed=42 edits=1 非可变区=0 锁定改动=0 接口=1 折叠降=0.0215  接口改动1
+  greedy_hill_climb|budget=600|seed=43 edits=1 非可变区=0 锁定改动=0 接口=1 折叠降=0.0409  接口改动1
+  greedy_hill_climb|budget=600|seed=44 edits=1 非可变区=0 锁定改动=0 接口=1 折叠降=0.0103  接口改动1
+  greedy_hill_climb|budget=600|seed=45 edits=1 非可变区=0 锁定改动=0 接口=1 折叠降=0.0643  接口改动1 | 折叠代理降0.064
+  greedy_hill_climb|budget=600|seed=46 edits=1 非可变区=0 锁定改动=0 接口=1 折叠降=0.026  接口改动1
+  greedy_hill_climb|budget=1200|seed=42 edits=2 非可变区=1 锁定改动=0 接口=2 折叠降=0.0702  非可变区改动50% | 接口改动2 | 折叠代理降0.070 | aggregation_max越界
+  greedy_hill_climb|budget=1200|seed=43 edits=2 非可变区=1 锁定改动=0 接口=2 折叠降=0.1093  非可变区改动50% | 接口改动2 | 折叠代理降0.109 | aggregation_max越界
+  greedy_hill_climb|budget=1200|seed=44 edits=2 非可变区=1 锁定改动=0 接口=2 折叠降=0.0444  非可变区改动50% | 接口改动2 | aggregation_max越界
+  greedy_hill_climb|budget=1200|seed=45 edits=2 非可变区=1 锁定改动=0 接口=2 折叠降=0.0954  非可变区改动50% | 接口改动2 | 折叠代理降0.095 | aggregation_max越界
+  greedy_hill_climb|budget=1200|seed=46 edits=2 非可变区=1 锁定改动=0 接口=2 折叠降=0.0567  非可变区改动50% | 接口改动2 | 折叠代理降0.057 | aggregation_max越界
+============================================================
+明细见 side_effect.csv
+============================================================

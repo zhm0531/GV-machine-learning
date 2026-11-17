@@ -1,0 +1,21 @@
+{
+ "primary_alignment": "hmmalign (pyhmmer) to PF00741",
+ "tool": "pyhmmer hmmalign",
+ "n_seq": 856,
+ "n_cols": 153,
+ "n_match_cols": 39,
+ "n_allgap_cols": 0,
+ "n_cols_gap_lt_0.5": 85,
+ "trim_alignment_cols": 39,
+ "reference": "WP_007357596.1",
+ "cross_check_famsa": {
+  "note": "FAMSA 输出用于对照，未作为主比对",
+  "file": "/home/caizhi666/ml/module2/out/GvpA_famsa.aln"
+ },
+ "outputs": [
+  "GvpA_hmmalign.sto",
+  "GvpA_hmmalign.a2m",
+  "GvpA_hmmalign_full.fa",
+  "GvpA_hmmalign_trim.aln"
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "input_fasta": "/home/caizhi666/ml/pan_resources/gv/design/data/GvpA.fasta",
+ "input_sha1": "9dc122e9234c05a2",
+ "n_seq": 856,
+ "n_cols": 191,
+ "tool": "pyfamsa (FAMSA)",
+ "threads": 8,
+ "elapsed_sec": 0.22,
+ "output": "/home/caizhi666/ml/module2/out/GvpA_famsa.aln"
+}

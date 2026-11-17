@@ -1,0 +1,31 @@
+﻿edits_in_variable,edits_outside_variable,fold_drop,fold_proxy,interface_changes,length,locked_changes,n_edits,name,outside_ratio,prop_flags,verdict
+5,2,0.1462,0.8538,7,72,0,7,random_mutation|budget=300|seed=42,0.286,aggregation_max越界,非可变区改动29% | 接口改动7 | 折叠代理降0.146 | aggregation_max越界
+3,3,0.1071,0.8929,5,72,0,6,random_mutation|budget=300|seed=43,0.5,aggregation_max越界,非可变区改动50% | 接口改动5 | 折叠代理降0.107 | aggregation_max越界
+5,3,0.1306,0.8694,8,72,0,8,random_mutation|budget=300|seed=44,0.375,aggregation_max越界,非可变区改动38% | 接口改动8 | 折叠代理降0.131 | aggregation_max越界
+1,1,0.0931,0.9069,2,72,0,2,random_mutation|budget=300|seed=45,0.5,aggregation_max越界,非可变区改动50% | 接口改动2 | 折叠代理降0.093 | aggregation_max越界
+2,3,0.1659,0.8341,5,72,0,5,random_mutation|budget=300|seed=46,0.6,aggregation_max越界,非可变区改动60% | 接口改动5 | 折叠代理降0.166 | aggregation_max越界
+5,2,0.1462,0.8538,7,72,0,7,random_mutation|budget=600|seed=42,0.286,aggregation_max越界,非可变区改动29% | 接口改动7 | 折叠代理降0.146 | aggregation_max越界
+3,3,0.1824,0.8176,5,72,0,6,random_mutation|budget=600|seed=43,0.5,aggregation_max越界,非可变区改动50% | 接口改动5 | 折叠代理降0.182 | aggregation_max越界
+6,3,0.1576,0.8424,9,72,0,9,random_mutation|budget=600|seed=44,0.333,aggregation_max越界,非可变区改动33% | 接口改动9 | 折叠代理降0.158 | aggregation_max越界
+3,1,0.1721,0.8279,4,72,0,4,random_mutation|budget=600|seed=45,0.25,aggregation_max越界,非可变区改动25% | 接口改动4 | 折叠代理降0.172 | aggregation_max越界
+2,3,0.1659,0.8341,5,72,0,5,random_mutation|budget=600|seed=46,0.6,aggregation_max越界,非可变区改动60% | 接口改动5 | 折叠代理降0.166 | aggregation_max越界
+9,3,0.223,0.777,10,72,0,12,random_mutation|budget=1200|seed=42,0.25,aggregation_max越界,非可变区改动25% | 接口改动10 | 折叠代理降0.223 | aggregation_max越界
+8,4,0.205,0.795,8,72,0,12,random_mutation|budget=1200|seed=43,0.333,aggregation_max越界,非可变区改动33% | 接口改动8 | 折叠代理降0.205 | aggregation_max越界
+9,4,0.191,0.809,11,72,0,13,random_mutation|budget=1200|seed=44,0.308,aggregation_max越界,非可变区改动31% | 接口改动11 | 折叠代理降0.191 | aggregation_max越界
+3,1,0.1721,0.8279,4,72,0,4,random_mutation|budget=1200|seed=45,0.25,aggregation_max越界,非可变区改动25% | 接口改动4 | 折叠代理降0.172 | aggregation_max越界
+4,3,0.1573,0.8427,7,72,0,7,random_mutation|budget=1200|seed=46,0.429,aggregation_max越界,非可变区改动43% | 接口改动7 | 折叠代理降0.157 | aggregation_max越界
+1,0,0.0215,0.9785,1,72,0,1,greedy_hill_climb|budget=300|seed=42,0.0,,接口改动1
+1,0,0.0409,0.9591,1,72,0,1,greedy_hill_climb|budget=300|seed=43,0.0,,接口改动1
+1,0,0.0103,0.9897,1,72,0,1,greedy_hill_climb|budget=300|seed=44,0.0,,接口改动1
+1,0,0.0643,0.9357,1,72,0,1,greedy_hill_climb|budget=300|seed=45,0.0,,接口改动1 | 折叠代理降0.064
+1,0,0.026,0.974,1,72,0,1,greedy_hill_climb|budget=300|seed=46,0.0,,接口改动1
+1,0,0.0215,0.9785,1,72,0,1,greedy_hill_climb|budget=600|seed=42,0.0,,接口改动1
+1,0,0.0409,0.9591,1,72,0,1,greedy_hill_climb|budget=600|seed=43,0.0,,接口改动1
+1,0,0.0103,0.9897,1,72,0,1,greedy_hill_climb|budget=600|seed=44,0.0,,接口改动1
+1,0,0.0643,0.9357,1,72,0,1,greedy_hill_climb|budget=600|seed=45,0.0,,接口改动1 | 折叠代理降0.064
+1,0,0.026,0.974,1,72,0,1,greedy_hill_climb|budget=600|seed=46,0.0,,接口改动1
+1,1,0.0702,0.9298,2,72,0,2,greedy_hill_climb|budget=1200|seed=42,0.5,aggregation_max越界,非可变区改动50% | 接口改动2 | 折叠代理降0.070 | aggregation_max越界
+1,1,0.1093,0.8907,2,72,0,2,greedy_hill_climb|budget=1200|seed=43,0.5,aggregation_max越界,非可变区改动50% | 接口改动2 | 折叠代理降0.109 | aggregation_max越界
+1,1,0.0444,0.9556,2,72,0,2,greedy_hill_climb|budget=1200|seed=44,0.5,aggregation_max越界,非可变区改动50% | 接口改动2 | aggregation_max越界
+1,1,0.0954,0.9046,2,72,0,2,greedy_hill_climb|budget=1200|seed=45,0.5,aggregation_max越界,非可变区改动50% | 接口改动2 | 折叠代理降0.095 | aggregation_max越界
+1,1,0.0567,0.9433,2,72,0,2,greedy_hill_climb|budget=1200|seed=46,0.5,aggregation_max越界,非可变区改动50% | 接口改动2 | 折叠代理降0.057 | aggregation_max越界
